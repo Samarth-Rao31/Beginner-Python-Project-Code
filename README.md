@@ -1,2 +1,2 @@
-# Beginner-Python-Project-Code
-Python, MySQL, Cassandra-Project-Code
+# Python, MySQL, Cassandra-Project-Code
+Beginner-Python-Project-Code
